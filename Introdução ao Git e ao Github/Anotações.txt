@@ -1,0 +1,6 @@
+Criando repositório:
+
+1. New repository
+
+Deixar selecionado o README, pois o Github irá criar um arquivo como se fosse a pasta inicial do nosso repositório.
+
